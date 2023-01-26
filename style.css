@@ -39,9 +39,21 @@ nav ul{
     background-color: rgb(237, 150, 150);
 }
 .gameinfo{
-    padding: 0 344px;
+    padding: 0 34px;
     font-family: 'Courier New', Courier, monospace
 }
 .image img {
-        display: none;
+    display: none; 
 }
+.br-0{
+    border-right: 0;
+}
+.bl-0{
+    border-left: 0;
+}
+.bt-0{
+    border-top: 0;
+}
+.bb-0{
+    border-bottom: 0;
+}   
